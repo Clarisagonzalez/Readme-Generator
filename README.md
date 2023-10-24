@@ -19,10 +19,10 @@ The readme generator is a command line application that creates a high quality R
 5. Start the application (node index.js) 
 
 ## Usage
-Complete the installation steps
-Run the application using npm start
-Answer the series of questions
-Go into Readme file to view the created readme
+1. Complete the installation steps
+2. Run the application using npm start
+3. Answer the series of questions
+4. Go into Readme file to view the created readme
 
 ## Credits
  N/A
